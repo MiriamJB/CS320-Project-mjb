@@ -1,4 +1,5 @@
 # cs320-project-mjb
+Temporary repository for teaching the CS320 course
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
